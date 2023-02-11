@@ -1,2 +1,3 @@
-#!/bin/bash \n
-echo "$ls" \n
+#!/bin/bash
+echo "$ls"
+"\n"
