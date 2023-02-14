@@ -17,3 +17,4 @@ display line pattern root in 3lines after them in the file
 HIDE WORDS
 READ ONLY LETTERS
 REPLACE CHARACTERS
+REPLACEMENT OF CHARACTER
