@@ -14,3 +14,4 @@ sorting in unique pattern
 display the root of etc/passwd using grep
 counting words
 display line pattern root in 3lines after them in the file
+HIDE WORDS
