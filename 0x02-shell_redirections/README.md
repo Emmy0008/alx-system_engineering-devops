@@ -4,3 +4,4 @@ Confused smiley task
 4-lastlines: displays the last 10 paths using the tail script func.
 DISPLAY FIRST 10 LINES OF DIRECTORY USING head script func.
 7-file to create file ending with newline
+SAVE CURRENT STATE OF DIRECTORY
