@@ -9,3 +9,4 @@ duplicate last line
 10-no_more_js to delete every file with .js
 UPDATE: 6-third_line
 11-directories to show DIRECTORIES COUNT
+12-newest_files sort directories from newest to oldest
