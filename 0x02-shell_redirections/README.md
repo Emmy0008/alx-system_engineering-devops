@@ -11,3 +11,4 @@ UPDATE: 6-third_line
 11-directories to show DIRECTORIES COUNT
 12-newest_files sort directories from newest to oldest
 sorting in unique pattern
+display the root of etc/passwd using grep
