@@ -7,3 +7,4 @@ DISPLAY FIRST 10 LINES OF DIRECTORY USING head script func.
 SAVE CURRENT STATE OF DIRECTORY
 duplicate last line
 10-no_more_js to delete every file with .js
+UPDATE: 6-third_line
